@@ -19,16 +19,6 @@ Currently focused on:
 
 I like learning by building projects from scratch and understanding how production-level systems work internally.
 
-## Interests
-
-Outside of coding, I enjoy:
-- Thinking about AI product architecture
-- Exploring new technologies
-- NBA & esports
-- City walking while traveling
-- Music & online culture
-- Learning through long-term self-study
-
 ---
 
 ## Goals
@@ -37,14 +27,6 @@ Outside of coding, I enjoy:
 - Build scalable AI-powered applications
 - Contribute to impactful real-world products
 - Keep improving every year
-
----
-
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=crazycat948&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crazycat948&layout=compact)
 
 ---
 

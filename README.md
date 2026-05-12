@@ -4,8 +4,6 @@
 💻 Full-Stack & AI Engineering Enthusiast  
 🌎 Based in Texas, United States
 
----
-
 ## About Me
 
 I enjoy building real-world software systems and exploring how modern AI applications are designed.
@@ -20,56 +18,6 @@ Currently focused on:
 - System Design
 
 I like learning by building projects from scratch and understanding how production-level systems work internally.
-
----
-
-## Tech Stack
-
-### Languages
-- Python
-- Java
-- C++
-- JavaScript
-- SQL
-
-### Backend
-- FastAPI
-- Spring Boot
-- REST APIs
-- JWT Authentication
-
-### Frontend
-- HTML
-- CSS
-- JavaScript
-- React (Learning)
-
-### Database
-- PostgreSQL
-- MySQL
-
-### AI / LLM
-- OpenAI API
-- RAG
-- Embeddings
-- Prompt Engineering
-- Vector Search
-
-### Tools
-- Git & GitHub
-- Docker
-- Linux / Unix
-- VS Code
-- Postman
-
----
-
-## Current Projects
-
-- Navora AI
-- Personal AI Agent
-
----
 
 ## Interests
 

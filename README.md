@@ -30,7 +30,3 @@ I like learning by building projects from scratch and understanding how producti
 
 ---
 
-## Connect With Me
-
-- GitHub: https://github.com/crazycat948
-- https://www.linkedin.com/in/yifan-r-204242290/

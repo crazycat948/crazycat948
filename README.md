@@ -1,4 +1,4 @@
-# Hi, I'm Yifan Ren 👋
+# Hi, I'm Yifan Ren :D👋
 
 🎓 UTD （MIT of south） BS CS ----> MCS Student at UIUC  
 💻 Full-Stack & AI Engineering Enthusiast  
